@@ -1,0 +1,21 @@
+CNN Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.76      0.74      0.75     85149
+           1       0.75      0.77      0.76     85440
+
+    accuracy                           0.75    170589
+   macro avg       0.75      0.75      0.75    170589
+weighted avg       0.75      0.75      0.75    170589
+
+
+LSTM Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.72      0.72      0.72     85149
+           1       0.72      0.72      0.72     85440
+
+    accuracy                           0.72    170589
+   macro avg       0.72      0.72      0.72    170589
+weighted avg       0.72      0.72      0.72    170589
+
