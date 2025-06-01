@@ -19,3 +19,7 @@ LSTM Classification Report:
    macro avg       0.72      0.72      0.72    170589
 weighted avg       0.72      0.72      0.72    170589
 
+
+
+
+my data https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud 
